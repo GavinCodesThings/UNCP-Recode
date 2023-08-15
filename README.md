@@ -12,3 +12,5 @@ You need ProtocolLib for this anti-cheat to work
 2. Get a copy of ProtocolLib 5.X.X
 3. Drag both jars into your spigot server's "plugins" folder
 4. enjoy ig
+
+### TODO: Finish this when I get home
